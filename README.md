@@ -1,41 +1,41 @@
-# Hi, I'm Rohan "HEXcube" Villoth
+# Hi, I'm Rohan Villoth
 
 I’m a web developer/designer, with experience working in both industry and community projects. I work on Next.js, React, Oracle CX Commerce (OCC), Node, B2B and B2C eCommerce, mobile app development, UX improvement, Scalable Vector Graphics (SVG), Augmented Reality (AR) and more. I'm interested in the latest developments in tech space, and contribute to open source projects.
 
 *Life is a cycle, balance is the key ☯️*
 
-<img src="https://github.com/HEXcube.png" width="240" alt="HEXcube avatar" />
+<img src="https://github.com/RohanVilloth.png" width="240" alt="Rohan Villoth's avatar" />
 
 ### GitHub Stats
 <p>
-  <a href="https://github.com/HEXcube">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HEXcube&theme=buefy" alt="Profile Details" />
+  <a href="https://github.com/RohanVilloth">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RohanVilloth&theme=buefy" alt="Profile Details" />
   </a>
 </p>
 <p>
-  <a href="https://github.com/HEXcube">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HEXcube&theme=buefy" alt="GitHub Stats" />
+  <a href="https://github.com/RohanVilloth">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RohanVilloth&theme=buefy" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/HEXcube">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HEXcube&theme=buefy" alt="Repos Per Language" />
+  <a href="https://github.com/RohanVilloth">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RohanVilloth&theme=buefy" alt="Repos Per Language" />
   </a>
-  <a href="https://github.com/HEXcube">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HEXcube&theme=buefy&utcOffset=-5" alt="Productive Time" />
+  <a href="https://github.com/RohanVilloth">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RohanVilloth&theme=buefy&utcOffset=-5" alt="Productive Time" />
   </a>
 </p>
 <p>
-  <a href="https://github.com/HEXcube">
-    <img src="https://streak-stats.demolab.com?user=HEXcube&theme=buefy" alt="GitHub Streak" />
+  <a href="https://github.com/RohanVilloth">
+    <img src="https://streak-stats.demolab.com?user=RohanVilloth&theme=buefy" alt="GitHub Streak" />
   </a>
 </p>
 
 ### Profiles
 <p align="left">
-  <a href="https://HEXcube.github.io">
-    <img src="https://img.shields.io/badge/Website-HEXcube-005571?style=flat-square&logo=googlechrome&logoColor=white" alt="HEXcube's website" />
+  <a href="https://RohanVilloth.github.io">
+    <img src="https://img.shields.io/badge/Website-RohanVilloth-005571?style=flat-square&logo=googlechrome&logoColor=white" alt="Rohan Villoth's website" />
   </a>
-  <a href="https://github.com/HEXcube">
-    <img src="https://img.shields.io/badge/GitHub-HEXcube-181717?style=flat-square&logo=github&logoColor=white" alt="Rohan Villoth's GitHub" />
+  <a href="https://github.com/RohanVilloth">
+    <img src="https://img.shields.io/badge/GitHub-RohanVilloth-181717?style=flat-square&logo=github&logoColor=white" alt="Rohan Villoth's GitHub" />
   </a>
   <a href="https://linkedin.com/in/RohanVilloth">
     <img src="https://img.shields.io/badge/LinkedIn-RohanVilloth-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Rohan Villoth's profile on LinkedIn" />
@@ -46,11 +46,11 @@ I’m a web developer/designer, with experience working in both industry and com
   <a href="https://dev.to/RohanVilloth">
     <img src="https://img.shields.io/badge/DEV.to-RohanVilloth-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="Rohan Villoth's DEV Profile" />
   </a>
-  <a href="https://stackexchange.com/users/3594399/rohan-hexcube-villoth">
+  <a href="https://stackexchange.com/users/3594399/rohan-villoth">
     <img src="https://img.shields.io/badge/Stack_Exchange-Rohan_Villoth-1E5397?style=flat-square&logo=stackexchange&logoColor=white" alt="Rohan Villoth's Stack Exchange" />
   </a>
-  <a href="https://deviantart.com/HEXcube">
-    <img src="https://img.shields.io/badge/DeviantArt-HEXcube-05CC47?style=flat-square&logo=deviantart&logoColor=white" alt="Rohan Villoth's DeviantArt" />
+  <a href="https://deviantart.com/RohanVilloth">
+    <img src="https://img.shields.io/badge/DeviantArt-RohanVilloth-05CC47?style=flat-square&logo=deviantart&logoColor=white" alt="Rohan Villoth's DeviantArt" />
   </a>
   <a href="https://instagram.com/rohan.villoth">
     <img src="https://img.shields.io/badge/Instagram-rohan.villoth-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Rohan Villoth's Instagram" />
@@ -62,7 +62,7 @@ I’m a web developer/designer, with experience working in both industry and com
     <img src="https://img.shields.io/badge/X-%40RohanVilloth-000000?style=flat-square&logo=x&logoColor=white" alt="Rohan Villoth's profile on X (formerly Twitter)" />
   </a>
   <a href="https://steamcommunity.com/id/HEXcube">
-    <img src="https://img.shields.io/badge/Steam-HEXcube-000000?style=flat-square&logo=steam&logoColor=white" alt="HEXcube's profile on Steam" />
+    <img src="https://img.shields.io/badge/Steam-HEXcube-000000?style=flat-square&logo=steam&logoColor=white" alt="Rohan Villoth's profile on Steam" />
   </a>
 </p>
 
@@ -96,7 +96,7 @@ I found these resources helpful when creating this README:
 - [Get GitHub avatar URL](https://stackoverflow.com/questions/22932422/get-github-avatar-from-email-or-name/36380674#36380674)
 
 <!--
-**HEXcube/HEXcube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RohanVilloth/RohanVilloth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
