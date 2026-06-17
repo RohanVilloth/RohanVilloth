@@ -31,7 +31,7 @@ I’m a web developer/designer, with experience working in both industry and com
 
 ### Profiles
 <p align="left">
-  <a href="https://RohanVilloth.github.io">
+  <a href="https://RohanVilloth.com">
     <img src="https://img.shields.io/badge/Website-RohanVilloth-005571?style=flat-square&logo=googlechrome&logoColor=white" alt="Rohan Villoth's website" />
   </a>
   <a href="https://github.com/RohanVilloth">
